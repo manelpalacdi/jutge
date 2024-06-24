@@ -1,5 +1,4 @@
 class Tree:
-
     def __init__(self, x) -> None:
         self.rt = x
         self.child = []
