@@ -42,4 +42,4 @@ def print_branches(t: Tree):
     return
 
 if __name__ == "__main__":
-    zeros_n_ones(3)
+    zeros_n_ones(5)
